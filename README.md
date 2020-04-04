@@ -1,0 +1,2 @@
+# FrontLineOperationalScheduling
+This is an attempt to contribute to the knowledge base surrounding the distribution of masks/ventilators/hospital beds during the COVID-19 pandemic. The creator of this repository is in no way an expert on anything, really. Just a citizen looking to help. Please contribute your thoughts as well; this is all hands on deck. I will be looking into how to most effectively aggregate everyone's ideas into something that is hopefully succinct and useful.
